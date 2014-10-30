@@ -1,0 +1,11 @@
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\obj\Debug\FileManager.exe
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\obj\Debug\FileManager.pdb
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\bin\Debug\FileManager.exe
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\bin\Debug\FileManager.pdb
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\obj\Debug\ResolveAssemblyReference.cache
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\obj\Debug\FileManager.EditTxt.resources
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\obj\Debug\FileManager.Form1.resources
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\obj\Debug\FileManager.NewFile.resources
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\obj\Debug\FileManager.NewFolder.resources
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+J:\Example\文件管理器\文件管理器（秦良骏）\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileManager">
+</Property><Property Name="解决方案文件" Value="C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\FileManager.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\FileManager.suo">
+</Property><Property Name="Date" Value="2014年10月28日 星期二">
+</Property><Property Name="Time" Value="19:39">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FileManager.sln" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\FileManager.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FileManager.suo" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\FileManager.suo">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="FileManager.csproj" Description="项目文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\FileManager.csproj">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Class\Folder.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Class\Folder.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Class\Txt.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Class\Txt.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="EditTxt.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\EditTxt.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="EditTxt.Designer.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\EditTxt.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Form1.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Form1.Designer.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="NewFile.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\NewFile.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="NewFile.Designer.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\NewFile.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="NewFolder.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\NewFolder.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="NewFolder.Designer.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\NewFolder.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Program.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Properties\Settings.settings" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="EditTxt.resx" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\EditTxt.resx">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Form1.resx" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="NewFile.resx" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\NewFile.resx">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="NewFolder.resx" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\NewFolder.resx">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="Properties\Resources.resx" Description="文件已成功备份为 C:\Users\huan921124\Downloads\通过C#实现文件管理器\文件管理器（秦良骏）\FileManager\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="FileManager.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="FileManager" Source="FileManager.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FileManager.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="FileManager.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileManager" Source="FileManager.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
