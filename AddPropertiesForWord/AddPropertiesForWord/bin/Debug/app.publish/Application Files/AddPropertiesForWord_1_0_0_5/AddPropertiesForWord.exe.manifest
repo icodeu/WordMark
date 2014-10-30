@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="AddPropertiesForWord.exe" version="1.0.0.5" publicKeyToken="93204273e876490d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AddPropertiesForWord" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AddPropertiesForWord.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Interop.Word" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Vbe.Interop" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="office" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AddPropertiesForWord.exe" size="9728">
+      <assemblyIdentity name="AddPropertiesForWord" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>FjCW273rmDajaAFH/Qe3h9QoLgA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=HUAN\欢" issuerKeyHash="0afebc611b6f57d004412958c71d6701443c202a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>U3gANSM60P680c9FMTXbqQFIvrM=</DigestValue></Reference></SignedInfo><SignatureValue>cRNhUma0dQtrPqt2fov17/0efWqgjBQ5rsJMaFJfW47OBNrdHikq+FN2/seSXPq7ipHfDXdQMxt6LR9e6ia1d8dQtDNe7q1/Q5DqxmcSBy82Jk3X2XL74lGWyZ8WKsZ91D4BTt4NBTOCx+2UJdb41pW/uMNcOdWUETFrnqc8SWg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>srLeMsjxzpy3RTXM6951Q+vJuF+qmlxpniLBY/uA5h/uR8YloPifvBjGfI6FReh9o4efbu41s6z+zW9dYF3DXchSgeLIEwTRDSlqkPEME537kTs3TPcZmmZyp9f9pXK0vfF/YVPwOnkVlZiUgfAl8oY9GEbzcYTVxgGZXDIOEn8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b3be4801a9db353145cfd1bcfed03a2335007853" Description="" Url=""><as:assemblyIdentity name="AddPropertiesForWord.exe" version="1.0.0.5" publicKeyToken="93204273e876490d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HUAN\欢</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>a9ToRjaPzPlTv1aRHrVoDLcaYT8=</DigestValue></Reference></SignedInfo><SignatureValue>PW71OUeDdrbBzMRaD3RlckCvvmLtYegUFPRzlyXfnn2tFev1ZNpkrpFxG2LnBsqoXWLN7tl4jdtNCJbkA6XWOmsC4Eugo52x7pn8vVn9L6seJGpZK9VxeZ5WJCGKONBxi2GtsnsJ6HNutCNZmG8kAw4MXhLiCa1kzauAXuZG1jI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>srLeMsjxzpy3RTXM6951Q+vJuF+qmlxpniLBY/uA5h/uR8YloPifvBjGfI6FReh9o4efbu41s6z+zW9dYF3DXchSgeLIEwTRDSlqkPEME537kTs3TPcZmmZyp9f9pXK0vfF/YVPwOnkVlZiUgfAl8oY9GEbzcYTVxgGZXDIOEn8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBsTCCARqgAwIBAgIQeduK1IOeMLpFs4oUPjFKBDANBgkqhkiG9w0BAQUFADAXMRUwEwYDVQQDHgwASABVAEEATgBcayIwHhcNMTMwODE0MTU1NzIzWhcNMTQwODE0MjE1NzIzWjAXMRUwEwYDVQQDHgwASABVAEEATgBcayIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALKy3jLI8c6ct0U1zOvedUPrybhfqppcaZ4iwWP7gOYf7kfGJaD4n7wYxnyOhUXofaOHn27uNbOs/s1vXWBdw13IUoHiyBME0Q0papDxDBOd+5E7N0z3GZpmcqfX/aVytL3xf2FT8Dp5FZWYlIHwJfKGPRhG83GE1cYBmVwyDhJ/AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAjFm53iMrBiLlITMJv/ZjN4I6KDDyjJPbglSzWRYoQohWN1PzXN3wSClDdZzdzbJJ3xrkB4n5EUsikIdOKR6EbVDnezj0AQQWnfP0gcHp7l1wwWxD7nhQkAamCVNZJxxrIsnBM3FBt6T7lIUfLyHwI7QfIZ3juTK4SKOLOFbhCyI=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
