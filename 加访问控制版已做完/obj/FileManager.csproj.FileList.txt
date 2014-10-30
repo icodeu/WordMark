@@ -1,0 +1,11 @@
+bin\Debug\FileManager.exe
+bin\Debug\FileManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FileManager.EditTxt.resources
+obj\Debug\FileManager.Form1.resources
+obj\Debug\FileManager.Properties.Resources.resources
+obj\Debug\FileManager.csproj.GenerateResource.Cache
+obj\Debug\FileManager.exe
+obj\Debug\FileManager.pdb
+obj\Debug\FileManager.NewFolder.resources
+obj\Debug\FileManager.NewFile.resources
